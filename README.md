@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer who is consistently growing themselves. Some technologies I enjoy working with include ReactJS and Jamstack (JavaScript, APIs + Markup) who aims to keep lines of communication open and love to explore new things.
+I'm a Software engineer who is consistently growing themselves. Some technologies I enjoy working which includes ReactJS and TypeScript who aims to keep lines of communication open and love to explore new things.
 
-### Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/gagan-sidhu/">LinkedIn</a> 💼
+- Let's connect over <a href="https://www.linkedin.com/in/gagan-sidhu/">LinkedIn</a> 💼 for a virtual cup of coffee.
